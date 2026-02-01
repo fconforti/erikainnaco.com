@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+  <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM Information">
+  {% include structured-data.html %}
+</head>
+<body class="min-h-screen bg-white text-gray-900 font-body">
+  {% include header.html %}
+  <div class="pt-16 md:pt-20">
+    {{ content }}
+  </div>
+  {% include footer.html %}
+</body>
+</html>

@@ -1,0 +1,14 @@
+title: Erika Innaco
+description: Architetto & Interior Designer in Versilia
+url: "https://erikainnaco.com"
+baseurl: ""
+
+permalink: pretty
+
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - tailwind.config.js
+  - Gemfile
+  - Gemfile.lock

@@ -6,16 +6,17 @@
 
 Erika Innaco è un'architetta italiana specializzata in interior design residenziale e commerciale. Dopo essersi laureata a Firenze e aver lavorato per oltre vent'anni nel settore, si è trasferita in Versilia con la sua famiglia. Il suo approccio progettuale unisce estetica contemporanea e rispetto per la tradizione locale, utilizzando materiali e artigiani del territorio.
 
-## Servizi offerti
+## Servizi
 
 - Progettazione di interni residenziali
 - Progettazione di interni commerciali
 - Ristrutturazioni
+- Ampliamenti
 - Consulenza di interior design
 
 ## Area geografica
 
-Opera principalmente in Versilia e Toscana, Italia.
+Versilia, Toscana (Forte dei Marmi, Pietrasanta, Viareggio, Camaiore, Lucca).
 
 ## Contatti
 
@@ -23,11 +24,10 @@ Opera principalmente in Versilia e Toscana, Italia.
 - WhatsApp: +39 339 799 2577
 - Sito web: https://erikainnaco.com
 
-## Filosofia progettuale
+## Filosofia
 
-"Il buon design non cancella, ma valorizza. Creo spazi contemporanei che rispettano la memoria dei luoghi: materiali e artigiani locali, linee pulite che dialogano con la tradizione."
+"Il buon design non cancella, ma valorizza."
 
 ## Documentazione dettagliata
 
-Per informazioni più dettagliate, consulta:
-- /llms-full.txt - Versione estesa con portfolio e dettagli progetti
+Per portfolio e dettagli progetti: /llms-full.txt

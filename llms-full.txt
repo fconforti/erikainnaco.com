@@ -22,29 +22,41 @@ Dalla consulenza iniziale alla realizzazione completa, per appartamenti, ville e
 ### Progettazione di interni commerciali
 Uffici, studi professionali, spazi retail e hospitality.
 
-### Ristrutturazioni
+### Ristrutturazioni e ampliamenti
 Interventi di ristrutturazione con particolare attenzione al dialogo tra elementi storici e contemporanei.
 
 ### Consulenza di interior design
 Sessioni di consulenza per chi desidera un supporto professionale nella scelta di materiali, colori e arredi.
 
-## Portfolio - Progetti selezionati
+## Portfolio - Progetti recenti
 
-### Casa Serena - Milano
-Ristrutturazione completa di 240 mq in un palazzo d'epoca. Un dialogo tra elementi storici e linee contemporanee, dove il marmo originale incontra arredi minimal su misura.
+### Esterno Villa — Tonfano
+Facciata e giardino di una villa a due passi dal mare. Materiali naturali e verde mediterraneo creano un ingresso accogliente che anticipa l'atmosfera rilassata degli interni.
 
-### Studio Luce - Torino
-Headquarter di un'agenzia creativa. Spazi fluidi e luminosi pensati per ispirare collaborazione, con zone dedicate alla concentrazione e al relax.
+### Soggiorno Villa — Tonfano
+Open space luminoso affacciato sul giardino privato. Divano componibile, legno chiaro e tessuti naturali compongono un ambiente pensato per vivere la casa in totale relax.
 
-### Terrazza Giardino - Lago di Como
-Concept per un boutique hotel affacciato sul lago. Interni che celebrano la tradizione lombarda con un'estetica contemporanea e materiali naturali.
+### Soggiorno Appartamento — Lucca
+Living in un palazzo storico nel cuore del centro. Soffitti originali e pavimenti d'epoca incontrano arredi contemporanei in una palette di toni caldi e avvolgenti.
+
+### Ampliamento Villa — Pietrasanta
+Nuova ala vetrata per una villa ai piedi delle Apuane. Struttura leggera in acciaio e grandi superfici trasparenti che portano la luce e il giardino dentro casa.
+
+### Cucina Monolocale — Forte dei Marmi
+Angolo cottura su misura per un piccolo appartamento al mare. Pensili a scomparsa, piano in quarzo e ogni dettaglio studiato per sfruttare al meglio lo spazio disponibile.
+
+### Studio in Camera — Forte dei Marmi
+Zona lavoro integrata nell'armadio a muro del soggiorno. Scrivania a ribalta e illuminazione dedicata permettono di lavorare anche in vacanza senza rinunciare all'ordine.
 
 ## Area geografica
 
-Opera principalmente in:
-- Versilia (Viareggio, Forte dei Marmi, Pietrasanta, Camaiore)
-- Toscana
-- Nord Italia
+Opera principalmente in Versilia e Toscana:
+- Forte dei Marmi
+- Pietrasanta
+- Viareggio
+- Camaiore
+- Tonfano
+- Lucca
 
 Disponibile per progetti in tutta Italia previo accordo.
 
@@ -56,7 +68,7 @@ Disponibile per progetti in tutta Italia previo accordo.
 
 ## Come iniziare un progetto
 
-1. Contatta Erika via WhatsApp o email per raccontare la tua idea
+1. Contatta Erika via WhatsApp o email
 2. Primo incontro conoscitivo (senza impegno)
 3. Sopralluogo e analisi degli spazi
 4. Proposta progettuale e preventivo
@@ -65,5 +77,7 @@ Disponibile per progetti in tutta Italia previo accordo.
 
 ## Struttura del sito
 
-- / - Homepage con presentazione, portfolio e contatti
-- /#work - Sezione portfolio con progetti selezionati
+- / — Homepage con presentazione e portfolio
+- /#work — Sezione progetti recenti
+- /llms.txt — Informazioni sintetiche per LLM
+- /llms-full.txt — Informazioni complete per LLM
